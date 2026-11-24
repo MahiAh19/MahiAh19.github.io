@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
-  Location: >
+  # Location: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
-     <p> Arizona </p>
+  #   <p> Arizona </p>
 
 
 news: false # includes a list of news items

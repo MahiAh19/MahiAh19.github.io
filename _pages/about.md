@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I’m a PhD student in Human Systems Engineering at Arizona State University, where I study the increasingly complicated relationship between people and AI. Born and raised in Dubai, I now call Arizona home - meant to be a desert baby amirite.&#x20;
+I’m a PhD student in Human Systems Engineering at Arizona State University, where I study the increasingly complicated relationship between people and AI. Born and raised in Dubai, I now call Arizona home—maybe I was always meant to be a desert baby.
 
 My research sits at the intersection of human–AI interaction and responsible AI. I’m particularly interested in what happens when AI becomes more than just a tool when we rely on it for advice, collaborate with it on creative tasks, or turn to it for information and support. Much of my current work examines how we can measure these interactions through human behavior, including how trust shapes our reliance on AI and how collaborating with generative AI might influence the way we think and create.
 

@@ -11,7 +11,7 @@ profile:
   # more_info: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+  <p> Arizona </p>
 
 
 news: false # includes a list of news items
@@ -19,9 +19,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a curious Data Analyst based in Dhaka who loves diving into the world of data to uncover hidden stories and insights. Fueled by curiosity and a knack for spotting patterns, I enjoy finding creative solutions that help drive smarter decisions.
+I’m a PhD student in Human Systems Engineering at Arizona State University, where I study the increasingly complicated relationship between people and AI. Born and raised in Dubai, I now call Arizona home - meant to be a desert baby amirite.&#x20;
 
-Beyond my day-to-day work, I'm deeply interested in exploring how technology can positively impact society. My research focuses on areas like social computing, responsible AI, and natural language processing (NLP). I'm passionate about understanding how people interact with technology, ensuring AI systems are ethical and transparent, and advancing the field of NLP to make communication between humans and machines more natural and effective. I'm always eager to connect with others who share these interests and collaborate on projects that push the boundaries of what's possible!
+My research sits at the intersection of human–AI interaction and responsible AI. I’m particularly interested in what happens when AI becomes more than just a tool when we rely on it for advice, collaborate with it on creative tasks, or turn to it for information and support. Much of my current work examines how we can measure these interactions through human behavior, including how trust shapes our reliance on AI and how collaborating with generative AI might influence the way we think and create.
+
+Before starting my PhD, I worked in data and business intelligence, which left me with a lasting interest in finding patterns in messy data and figuring out what they actually mean. These days, I bring that same curiosity to studying people and AI—using computational and behavioral methods to better understand how these systems shape us, and how we might design them to better support human agency.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
